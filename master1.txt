@@ -1,1 +1,1 @@
-"This i s my second file in git"
+"This i s my second file in"
